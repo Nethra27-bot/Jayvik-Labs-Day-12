@@ -11,7 +11,7 @@ CYBERSECURITY TRAINING# Linux Networking Fundamentals
 
 Day 12 | Theory and Practical Learning Report
 
-Student Name: Your Name
+Student Name: Nethra M
 
 Course: Cybersecurity
 
